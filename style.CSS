@@ -1,0 +1,109 @@
+/*1 & 2 introduction */
+/* 3 default browser styles */
+
+/* 4 syntax */
+/* #header{
+    position: relative;
+    top: 0;
+    left: 0;
+    text-align: center;
+}
+#header h1{
+    font-size: 32px;
+}
+p{
+    font-size: 12px;
+} */
+/*5 embedded and inline style */
+/*6 external style sheets */
+/*7 comments */
+
+/*8 targetting elements */
+/* p{
+    font-size: 18px;
+    color: blue;
+}
+a{
+    text-decoration: underline;
+    color: blue;
+}
+span{
+    font-size: 16px;
+}
+div{
+    width: 30%;
+    text-align: center;
+    background-color: lightslategray;
+} */
+
+/*9 targetting classes and id's */
+/* h2{
+    font-size: 24px;
+}
+#content-header{
+    font-size: 18px;
+    color: red;
+}
+span{
+    display: block;
+    color: royalblue;
+}
+.deck{
+    color: springgreen;
+} */
+
+/*10  conflicts and cascades */
+/*11 inheritence */
+ /* body{
+    color: saddlebrown;
+}
+div{
+    color: blueviolet;
+}
+p{
+    color: green;
+}
+a{*/
+    /* overiding browser default */
+/*    color: hotpink;
+}  */
+
+/* 12 selector specificity */
+/* conflicts and cascades */
+/* order of declaration wins 
+ but id declaration - is more 
+specific - wins more! */
+ /* .weighting{  contact */
+    /* width: 100%;
+    text-align: center;
+    background-color: lightslategray;
+}
+.weighting h2{  
+    color: red;
+} 
+.weighting h4{  
+    color: red;
+}
+strong{         
+    color: green;
+}
+#header h1{ index */
+/*    font-size: 32px;
+    width: 100%;
+    text-align: center;
+    background-color: lightslategray;
+} */
+
+/*13 the important declaration
+but not for conflict res!!!*/
+/* p{
+    color: red;
+}
+#header p{
+    color: green;
+}
+p{
+    color: blue !important;
+} */
+
+/* 14 targetting multiple elements */
